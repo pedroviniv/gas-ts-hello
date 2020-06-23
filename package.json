@@ -1,7 +1,7 @@
 {
   "name": "gas-ts-hello",
   "version": "0.0.1",
-  "description": "",
+  "description": "Prova de conceito que gera transpila código em TypeScript para um código que pode ser executado no GAS",
   "main": "src/index.ts",
   "author": "Pedro Arthur",
   "license": "MIT",

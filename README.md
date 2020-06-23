@@ -1,6 +1,6 @@
 # gas-ts-hello
 
-Prova de conceito que gera transpila código em TypeScript para um código que pode ser executado no GAS.
+Prova de conceito que transpila código em TypeScript para um código que pode ser executado no GAS.
 
 ## building
 
