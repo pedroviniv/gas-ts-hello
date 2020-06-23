@@ -1,0 +1,21 @@
+{
+  "name": "gas-ts-hello",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.ts",
+  "author": "Pedro Arthur",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --mode development"
+  },
+  "devDependencies": {
+    "@types/google-apps-script": "^0.0.54",
+    "awesome-typescript-loader": "^5.2.1",
+    "es3ify-webpack-plugin": "^0.1.0",
+    "gas-webpack-plugin": "^1.0.2",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.5"
+  }
+}
